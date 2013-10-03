@@ -172,9 +172,32 @@ you exit.</p>
 
 <p>Also <code>ctrl+d</code> (normally written <code>^d</code>) is a quick way to log out from the 
 current shell.</p></section>
+    <section class="slide"><h3>2. Package Managers</h3>
+
+<p>Because who wants to <code>./configure &amp;&amp; make &amp;&amp; sudo make install</code> all the time?</p>
+
+<p>Lots of them, most have a GUI version (e.g. Synaptic for aptitude).</p></section>
+    <section class="slide"><h3>3. grep</h3>
+
+<p>Search through files.</p>
+
+<p><code>grep "search" file.txt</code></p>
+
+<p>Can also add lots of other options like case insensitivity.</p>
+
+<p><code>grep -i "search" file.txt</code></p></section>
+    <section class="slide"><h3>3. grep</h3>
+
+<p>Uses regular expressions.</p>
+
+<p><code>grep "s.*h" file.txt</code></p>
+
+<p>Can be used recursively.</p>
+
+<p><code>grep -R "s.*h" dir/</code></p></section>
     <section class="slide"><h3>4. The humble pipe.</h3>
 
-<p>The pipe operator <code>|</code> (as well as redirects <code>&gt;</code>, <code>&gt;&gt;</code>) etc. are some very
+<p>The pipe operator <code>|</code> (as well as redirects <code>&gt;</code>, <code>&gt;&gt;</code>, etc.) are some very
 useful when you want to take the output from one command into another.</p>
 
 <p>One of my most used ones:</p>

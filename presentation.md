@@ -26,9 +26,42 @@ current shell.
 
 --
 
+### 2. Package Managers
+
+Because who wants to ``./configure && make && sudo make install`` all the time?
+
+
+Lots of them, most have a GUI version (e.g. Synaptic for aptitude).
+
+--
+
+### 3. grep
+
+Search through files.
+
+``grep "search" file.txt``
+
+Can also add lots of other options like case insensitivity.
+
+``grep -i "search" file.txt``
+
+--
+
+### 3. grep
+
+Uses regular expressions.
+
+``grep "s.*h" file.txt``
+
+Can be used recursively.
+
+``grep -R "s.*h" dir/``
+
+--
+
 ### 4. The humble pipe.
 
-The pipe operator ``|`` (as well as redirects ``>``, ``>>``) etc. are some very
+The pipe operator ``|`` (as well as redirects ``>``, ``>>``, etc.) are some very
 useful when you want to take the output from one command into another.
 
 One of my most used ones:

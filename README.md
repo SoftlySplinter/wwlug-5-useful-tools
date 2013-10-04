@@ -87,4 +87,5 @@ usually have examples too.
 
 ### And a final note
 
-All my slides are released under the BSD license.
+* All my slides are released under the BSD license.
+* And available on [GitHub](https://github.com/SoftlySplinter/wwlug-5-useful-tools)

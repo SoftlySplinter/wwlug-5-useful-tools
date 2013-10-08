@@ -8,8 +8,8 @@ controls: true
 
 --
 
-# 5 Useful Tools
-## 5 GNU/Linux tools that will make your life easy.
+# GNU/Linux Tools
+## 5 tools which will make you look like a hacker and save you some time.
 
 --
 

@@ -13,6 +13,19 @@ controls: true
 
 --
 
+### Adgenda
+
+1. Introduction
+2. Emacs for beginners
+3. VIM for beginners
+4. Advanced Vim tips
+5. Advanced Emacs tips
+6. Other editors of note
+7. Voting
+8. `mv ~wwlug/delph/* ~wwlug/pub/`
+
+--
+
 ### Text Editors
 
 ![](./real_programmers.png)
@@ -24,6 +37,14 @@ controls: true
 * Its not always possible (`ssh` to a server)
 * Most CLI editors can be IDEs
 * Because its fun\*
+
+--
+
+### Ed
+
+* The standard UNIX editor.
+
+(I just added it in because someone is bound to know)
 
 --
 
@@ -52,11 +73,10 @@ controls: true
 
 --
 
-### Ed
+### The Holy War
 
-* The standard UNIX editor.
+* Church of Emacs
+  * ![](./st-ignu-cius.jpg)
+* Cult of vi
 
-(I just added it in because someone is bound to know)
-
-
-
+At the end of the day it just comes down to personal preference really.

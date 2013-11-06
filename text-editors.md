@@ -3,7 +3,7 @@ author:
   name: "Alexander Brown"
   twitter: "@SoftlySplinter"
   url: "http://blog.alexanderdbrown.com"
-output: vim-emac-introduction.html
+output: text-editors.html
 controls: true
 
 --

@@ -16,10 +16,8 @@ controls: true
 ### Adgenda
 
 1. Introduction
-2. Emacs for beginners
-3. VIM for beginners
-4. Advanced Vim tips
-5. Advanced Emacs tips
+2. Emacs
+3. VIM
 6. Other editors of note
 7. Voting
 8. `mv ~wwlug/delph/* ~wwlug/pub/`
